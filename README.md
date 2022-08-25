@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Amr Mahmoud. I am a passionate student pursuing a B.Sc in Computer Science with a concentration in Software Engineering. I have experience working on projects with various programming languages including C++, Java, and Python. I am currently seeking internship opportunities for the summer of 2023 to work in real-life situations and further develop my skills.
+My name is Amr Mahmoud. I am a passionate student pursuing a B.Sc in Computer Science with a concentration in Software Engineering. I have experience working with various programming languages including C++, Java, and Python. I am currently seeking internship opportunities for the summer of 2023 to work in real-life situations and further develop my skills.
 
 <!--
 **Amr-mah/Amr-mah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
